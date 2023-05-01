@@ -1,6 +1,6 @@
 # Evalguessr
 
-Just a little chess game
+Guess the chess position evaluation
 
 ## License
 
